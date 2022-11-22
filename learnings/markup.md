@@ -2,6 +2,8 @@
 
 ## 1. Structure a site using semantic HTML to aid accessibility
 
+![image](https://user-images.githubusercontent.com/99536044/203397951-f49851a9-c752-465a-b0b0-2887e40e9666.png)
+
 ## 2. Make a web page more readable for screen readers
 
 ## 3. Design a UI without relying solely on colour, so that we don’t exclude colour-blind users
