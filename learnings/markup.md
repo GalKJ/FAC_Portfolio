@@ -28,7 +28,11 @@ By using HTML elements that naturally adjust to different screen sizes as well a
 
 ## 7. Use CSS media queries to ensure content is always presented effectively
 
+
+
 ## 8. Demonstrate a mobile-first approach to designing a website with a great user experience
+
+Our commits show our mobile first approuch since so many users access site via mobile or tablet.
 
 ## 9. Create an attractive and accessible colour palette for a project
 
