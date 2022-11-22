@@ -28,7 +28,7 @@ By using HTML elements that naturally adjust to different screen sizes as well a
 
 ## 7. Use CSS media queries to ensure content is always presented effectively
 
-
+![image](https://user-images.githubusercontent.com/99536044/203402524-2b7521cd-c397-4e85-9687-dc6ced5254bf.png)
 
 ## 8. Demonstrate a mobile-first approach to designing a website with a great user experience
 
