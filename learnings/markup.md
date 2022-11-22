@@ -6,7 +6,11 @@
 
 ## 2. Make a web page more readable for screen readers
 
+The alt tag in the above screenshot will be read out by a screen reader. Also using proper semantic HTML tags such as H1/2/3... will ensure they are read out as headings. 
+
 ## 3. Design a UI without relying solely on colour, so that we don’t exclude colour-blind users
+
+
 
 ## 4. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 
