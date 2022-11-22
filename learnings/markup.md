@@ -37,3 +37,6 @@ By using HTML elements that naturally adjust to different screen sizes as well a
 - We used colour sparingly but effectivly to lift the cards from the page.
 
 ## 10. Use CSS variables to apply repeated colours to HTML elements
+
+![image](https://user-images.githubusercontent.com/99536044/203402013-672285b9-03a4-43d3-ad4c-cc1c24d6e99e.png)
+
