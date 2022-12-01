@@ -26,4 +26,6 @@
 
 ---
 
-## 
+## 4. Use the fetch method to make HTTP requests and receive responses
+
+- On lines 11, 13 and 15 the `fetch()` method is being used to make a HTTP request and when that promise is fullfilled it's retuned and it's handling is defered to the next `.then` handler. 
