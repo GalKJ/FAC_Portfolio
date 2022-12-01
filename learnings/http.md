@@ -29,3 +29,10 @@
 ## 4. Use the fetch method to make HTTP requests and receive responses
 
 - On lines 11, 13 and 15 the `fetch()` method is being used to make a HTTP request and when that promise is fullfilled it's retuned and it's handling is defered to the next `.then` handler. 
+
+---
+
+## 5. Configure the options argument of the fetch method to make GET and POST requests
+
+![image](https://user-images.githubusercontent.com/99536044/205127666-f61a1644-11ae-488c-a58b-ad457786498a.png)
+
