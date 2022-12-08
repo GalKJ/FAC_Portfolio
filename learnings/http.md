@@ -36,3 +36,22 @@
 
 ![image](https://user-images.githubusercontent.com/99536044/205127666-f61a1644-11ae-488c-a58b-ad457786498a.png)
 
+---
+
+## 6. Use the map array method to create a new array containing new values
+
+![image](https://user-images.githubusercontent.com/99536044/206536863-db30abdc-f9ac-4572-ab36-8ba53a5957a1.png)
+
+---
+
+## 7. Use the filter array method to create a new array with certain values removed
+
+![image](https://user-images.githubusercontent.com/99536044/206537995-3a7e6bb4-4362-498d-a4b1-b181ff133e38.png)
+
+---
+
+## 8. Access DOM nodes using a variety of selectors
+
+
+
+
