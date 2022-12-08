@@ -52,6 +52,11 @@
 
 ## 8. Access DOM nodes using a variety of selectors
 
+![image](https://user-images.githubusercontent.com/99536044/206545354-4e701b20-905d-4df9-8330-ab2b8210ca67.png)
+
+![image](https://user-images.githubusercontent.com/99536044/206545977-bbcd0472-3432-48b2-a8ac-da0b93c30c79.png)
+
+![image](https://user-images.githubusercontent.com/99536044/206548661-39d09424-fd5f-439a-bc26-ebb6ef34d00b.png)
 
 
 
