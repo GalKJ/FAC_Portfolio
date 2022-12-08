@@ -58,5 +58,14 @@
 
 ![image](https://user-images.githubusercontent.com/99536044/206548661-39d09424-fd5f-439a-bc26-ebb6ef34d00b.png)
 
+---
+
+## 9. Add and remove DOM nodes to change the content on the page
+
+![image](https://user-images.githubusercontent.com/99536044/206549578-752b95ad-b6b7-43d3-a436-2efe5241d00e.png)
+
+
+
+
 
 
